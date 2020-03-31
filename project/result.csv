@@ -1,0 +1,55 @@
+
+tests/open/p-break.s
+Parsing successful.
+tests/open/n-main-def.s
+Couldn't repair and continue parse
+tests/open/p-struct.s
+Parsing successful.
+tests/open/p-tdef.s
+Parsing successful.
+tests/open/p-listcomp.s
+Couldn't repair and continue parse at character 5 of input
+tests/open/p-char.s
+Parsing successful.
+tests/open/p-return.s
+Parsing successful.
+tests/open/n-func-return-type-0.s
+Couldn't repair and continue parse at character 5 of input
+tests/open/p-rat.s
+Parsing successful.
+tests/open/p-main.s
+Parsing successful.
+tests/open/n-func-return-type-1.s
+Couldn't repair and continue parse at character 0 of input
+tests/open/p-seq-nested.s
+Parsing successful.
+tests/open/p-assign.s
+Parsing successful.
+tests/open/n-struct-tdef.s
+Couldn't repair and continue parse at character 2 of input
+tests/open/n-return-semicolon.s
+Couldn't repair and continue parse at character 2 of input
+tests/open/n-func-para-type.s
+Couldn't repair and continue parse at character 0 of input
+tests/open/p-loop.s
+Parsing successful.
+tests/open/p-singlelinecomment.s
+Parsing successful.
+tests/open/p-seq.s
+Parsing successful.
+tests/open/p-lambda.s
+Couldn't repair and continue parse at character 1 of input
+tests/open/p-seq-empty.s
+Parsing successful.
+tests/open/n-if-else-1.s
+Couldn't repair and continue parse at character 24 of input
+tests/open/p-multilinecomment.s
+Parsing successful.
+tests/open/p-if.s
+Parsing successful.
+tests/open/p-alias.s
+Parsing successful.
+tests/open/p-float.s
+Parsing successful.
+tests/open/p-func.s
+Parsing successful.
